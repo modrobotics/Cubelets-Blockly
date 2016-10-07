@@ -1,4 +1,4 @@
-# Cubelets Blockly
+# Cubelets Blockly v0.1.0
 A visual programming environment for Cubelets. Features a drag and drop way to
 program your robots. Cubelets Blockly is built on top of Google's [Blockly](https://developers.google.com/blockly/).
 
