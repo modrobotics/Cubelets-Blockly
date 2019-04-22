@@ -1,8 +1,4 @@
-# Cubelets Blockly v0.2.2
-A visual programming environment for Cubelets. Features a drag and drop way to
-program your robots. Cubelets Blockly is built on top of Google's [Blockly](https://developers.google.com/blockly/).
+# Notice
+This repo will no longer be receiving new releases. New releases can now be found at [Cubelets-Blockly-V2](https://github.com/modrobotics/Cubelets-Blockly-V2/releases).
 
-For more information please visit the [Cubelets Blockly page](http://www.modrobotics.com/cubelets/apps/cubelets-blockly)
-For support see http://www.modrobotics.com/help
-
-![Cubelets Blockly](http://www.modrobotics.com/wp-content/uploads/2016/09/cubelets_blockly.png)
+For more information please see https://www.modrobotics.com/cubelets/apps/cubelets-blockly/
